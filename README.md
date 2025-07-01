@@ -58,7 +58,7 @@ Server will run at: http://localhost:5000
 
 Client will run at: http://localhost:3000
 
-Main Features
+## Main Features
 ### Client Side
 ✅ React with TypeScript
 
