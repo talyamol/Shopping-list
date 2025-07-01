@@ -1,0 +1,30 @@
+# dependencies
+/node_modules
+
+# production
+/build
+/dist
+
+# misc
+.DS_Store
+.env
+.env.*.local
+
+# testing
+/coverage
+
+# typescript
+*.tsbuildinfo
+*.js
+*.js.map
+*.d.ts
+
+# nextjs, vite, turbo, etc.
+.next/
+.turbo/
+.cache/
+.vite/
+
+# editor
+.vscode/
+.idea/
