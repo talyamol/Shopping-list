@@ -43,8 +43,8 @@ npm install
 Create a .env file in the server directory:
 PORT=5000
 MONGODB_URI=mongodb://localhost:27017/shopping-list
-# Or for MongoDB Atlas:
-# MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/shopping-list
+### Or for MongoDB Atlas:
+ MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/shopping-list
 
 Run the server:
 npm run dev
