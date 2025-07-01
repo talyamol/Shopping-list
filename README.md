@@ -131,9 +131,3 @@ The app is mobile and desktop friendly
 Uses modern React techniques (Hooks, Context)
 Server configured with CORS for local development
 Data saved in MongoDB with full validations
-
-Data saved in MongoDB with full validations
-
-yaml
-Copy
-Edit
