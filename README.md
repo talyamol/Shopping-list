@@ -4,6 +4,7 @@
 An advanced shopping list system built with React, TypeScript, Material-UI, Node.js, and MongoDB.
 
 ## Project Structure
+
 shopping-list/
 ├── client/ # React Frontend
 │ ├── src/
